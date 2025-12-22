@@ -1,2 +1,2 @@
 # About
-- 💬 [blog pages](https://nikekhin.github.io)
+💬 [blog pages](https://nikekhin.github.io)
